@@ -1,6 +1,6 @@
 xử lý xung đột dữ liệu
 
-public void TestXDDL(int m){
+public void TestXungDotDuLieu(int n){
 	int a, b, c;
 	float x, y, z;
 }
