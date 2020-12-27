@@ -1,6 +1,10 @@
 xử lý xung đột dữ liệu
 
+<<<<<<< HEAD
 public void TestXungDotDuLieu(int n){
+=======
+public void TestXDDL(int k){
+>>>>>>> 4f39813100ec5dd08d9264c81d727b145b7293b9
 	int a, b, c;
 	float x, y, z;
 }
