@@ -1,0 +1,6 @@
+xử lý xung đột dữ liệu
+
+public void Test(){
+	int a, b, c;
+	float x, y, z;
+}
