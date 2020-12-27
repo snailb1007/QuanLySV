@@ -1,6 +1,6 @@
 xử lý xung đột dữ liệu
 
-public void Test(){
+public void TestXDDL(int m){
 	int a, b, c;
 	float x, y, z;
 }
